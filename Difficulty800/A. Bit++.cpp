@@ -1,4 +1,4 @@
-/*
+ /*
 282A
 
 The classic programming language of Bitland is Bit++. This language is so peculiar and complicated.
